@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "https://wds93.mybigcommerce.com/tools-etc",
+  "accessToken": "j1z883cdnk6n86cu5ffkyq4d81qzmez",
+  "port": 3000,
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
